@@ -32,9 +32,10 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1. Nombre del estudiante No. 1, Correo electrónico del estudiante No. 1 Uniandes, Funcionalidad propiedad del estudiante No. 1.
-1. Nombre del estudiante No. 2, Correo electrónico del estudiante No. 2 Uniandes, Funcionalidad propiedad del estudiante No. 2.
-1. Nombre del estudiante No. 3, Correo electrónico del estudiante No. 3 Uniandes, Funcionalidad propiedad del estudiante No. 3.
+1. Daniel Eduardo Colmenares Moreno, d.colmenaresm@uniandes.edu.co, 202410139
+2. Juan Sebastian Robles Moreno, js.roblesm1@uniandes.edu.co, 202411827
+3. Simon Pineda, s.pinedaz@uniandes.edu.co, 202410683
+4. Alejandro Flechas, a.flechas@uniandes.edu.co, 202412188
 
 [Volver al inicio](#sample-mvc)
 
