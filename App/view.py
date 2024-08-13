@@ -50,6 +50,7 @@ def printMenu():
     print("Opciones:")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
+    print("3- Cargar Libros con Tags")
     # TODO: Mods Lab 1, agregar la opcion 3.
     print("0- Salir")
 
